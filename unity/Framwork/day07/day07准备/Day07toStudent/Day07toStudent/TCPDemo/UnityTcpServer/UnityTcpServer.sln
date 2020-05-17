@@ -1,0 +1,23 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{7A1E48C6-477D-3A29-5570-F7B99E7855E8}") = "UnityTcpServer", "Assembly-CSharp.csproj", "{C218B6F1-F7DA-6EB8-29E8-2587CB49EAED}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C218B6F1-F7DA-6EB8-29E8-2587CB49EAED}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C218B6F1-F7DA-6EB8-29E8-2587CB49EAED}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C218B6F1-F7DA-6EB8-29E8-2587CB49EAED}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C218B6F1-F7DA-6EB8-29E8-2587CB49EAED}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal

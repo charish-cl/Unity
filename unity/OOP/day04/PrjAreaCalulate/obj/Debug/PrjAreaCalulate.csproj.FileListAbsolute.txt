@@ -1,0 +1,17 @@
+D:\Month03\OOP\PrjAreaCalulate\PrjAreaCalulate\bin\Debug\PrjAreaCalulate.exe.config
+D:\Month03\OOP\PrjAreaCalulate\PrjAreaCalulate\bin\Debug\PrjAreaCalulate.exe
+D:\Month03\OOP\PrjAreaCalulate\PrjAreaCalulate\bin\Debug\PrjAreaCalulate.pdb
+D:\Month03\OOP\PrjAreaCalulate\PrjAreaCalulate\obj\Debug\PrjAreaCalulate.exe
+D:\Month03\OOP\PrjAreaCalulate\PrjAreaCalulate\obj\Debug\PrjAreaCalulate.pdb
+D:\Month03\OOP\day03\PrjAreaCalulate\bin\Debug\PrjAreaCalulate.exe.config
+D:\Month03\OOP\day03\PrjAreaCalulate\obj\Debug\PrjAreaCalulate.exe
+D:\Month03\OOP\day03\PrjAreaCalulate\obj\Debug\PrjAreaCalulate.pdb
+D:\Month03\OOP\day03\PrjAreaCalulate\bin\Debug\PrjAreaCalulate.exe
+D:\Month03\OOP\day03\PrjAreaCalulate\bin\Debug\PrjAreaCalulate.pdb
+D:\Month03\OOP\day03\PrjAreaCalulate\obj\Debug\PrjAreaCalulate.csprojResolveAssemblyReference.cache
+D:\Month03\OOP\day04\PrjAreaCalulate\bin\Debug\PrjAreaCalulate.exe.config
+D:\Month03\OOP\day04\PrjAreaCalulate\obj\Debug\PrjAreaCalulate.exe
+D:\Month03\OOP\day04\PrjAreaCalulate\obj\Debug\PrjAreaCalulate.pdb
+D:\Month03\OOP\day04\PrjAreaCalulate\bin\Debug\PrjAreaCalulate.exe
+D:\Month03\OOP\day04\PrjAreaCalulate\bin\Debug\PrjAreaCalulate.pdb
+D:\Month03\OOP\day04\PrjAreaCalulate\obj\Debug\PrjAreaCalulate.csprojResolveAssemblyReference.cache

@@ -1,0 +1,6 @@
+D:\Month03\OOP准备\day02\DemoInheritance\DemoInheritance\bin\Debug\DemoInheritance.exe.config
+D:\Month03\OOP准备\day02\DemoInheritance\DemoInheritance\bin\Debug\DemoInheritance.exe
+D:\Month03\OOP准备\day02\DemoInheritance\DemoInheritance\bin\Debug\DemoInheritance.pdb
+D:\Month03\OOP准备\day02\DemoInheritance\DemoInheritance\obj\Debug\DemoInheritance.csprojResolveAssemblyReference.cache
+D:\Month03\OOP准备\day02\DemoInheritance\DemoInheritance\obj\Debug\DemoInheritance.exe
+D:\Month03\OOP准备\day02\DemoInheritance\DemoInheritance\obj\Debug\DemoInheritance.pdb

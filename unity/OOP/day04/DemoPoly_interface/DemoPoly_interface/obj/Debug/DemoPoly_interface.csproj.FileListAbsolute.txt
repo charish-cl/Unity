@@ -1,0 +1,6 @@
+D:\Month03\OOP\day04\DemoPoly_interface\DemoPoly_interface\bin\Debug\DemoPoly_interface.exe.config
+D:\Month03\OOP\day04\DemoPoly_interface\DemoPoly_interface\bin\Debug\DemoPoly_interface.exe
+D:\Month03\OOP\day04\DemoPoly_interface\DemoPoly_interface\bin\Debug\DemoPoly_interface.pdb
+D:\Month03\OOP\day04\DemoPoly_interface\DemoPoly_interface\obj\Debug\DemoPoly_interface.csprojResolveAssemblyReference.cache
+D:\Month03\OOP\day04\DemoPoly_interface\DemoPoly_interface\obj\Debug\DemoPoly_interface.exe
+D:\Month03\OOP\day04\DemoPoly_interface\DemoPoly_interface\obj\Debug\DemoPoly_interface.pdb

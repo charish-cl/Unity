@@ -1,0 +1,6 @@
+D:\Month03\OOP\day04\DemoPoly_day04\DemoPoly_day04\bin\Debug\DemoPoly_day04.exe.config
+D:\Month03\OOP\day04\DemoPoly_day04\DemoPoly_day04\bin\Debug\DemoPoly_day04.exe
+D:\Month03\OOP\day04\DemoPoly_day04\DemoPoly_day04\bin\Debug\DemoPoly_day04.pdb
+D:\Month03\OOP\day04\DemoPoly_day04\DemoPoly_day04\obj\Debug\DemoPoly_day04.exe
+D:\Month03\OOP\day04\DemoPoly_day04\DemoPoly_day04\obj\Debug\DemoPoly_day04.pdb
+D:\Month03\OOP\day04\DemoPoly_day04\DemoPoly_day04\obj\Debug\DemoPoly_day04.csprojResolveAssemblyReference.cache

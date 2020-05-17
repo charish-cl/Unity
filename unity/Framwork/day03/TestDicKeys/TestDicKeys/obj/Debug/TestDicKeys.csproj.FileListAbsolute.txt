@@ -1,0 +1,6 @@
+D:\Month03\Framework\day03\TestDicKeys\TestDicKeys\bin\Debug\TestDicKeys.exe.config
+D:\Month03\Framework\day03\TestDicKeys\TestDicKeys\bin\Debug\TestDicKeys.exe
+D:\Month03\Framework\day03\TestDicKeys\TestDicKeys\bin\Debug\TestDicKeys.pdb
+D:\Month03\Framework\day03\TestDicKeys\TestDicKeys\obj\Debug\TestDicKeys.csprojResolveAssemblyReference.cache
+D:\Month03\Framework\day03\TestDicKeys\TestDicKeys\obj\Debug\TestDicKeys.exe
+D:\Month03\Framework\day03\TestDicKeys\TestDicKeys\obj\Debug\TestDicKeys.pdb

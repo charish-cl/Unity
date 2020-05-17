@@ -1,0 +1,7 @@
+D:\Month03\Framework\day07\Prj1\Prj1\bin\Debug\Prj1.exe.config
+D:\Month03\Framework\day07\Prj1\Prj1\bin\Debug\Prj1.exe
+D:\Month03\Framework\day07\Prj1\Prj1\bin\Debug\Prj1.pdb
+D:\Month03\Framework\day07\Prj1\Prj1\obj\Debug\Prj1.exe
+D:\Month03\Framework\day07\Prj1\Prj1\obj\Debug\Prj1.pdb
+D:\Month03\Framework\day07\Prj1\Prj1\obj\Debug\Prj1.csprojResolveAssemblyReference.cache
+D:\Month03\Framework\day07\Prj1\Prj1\bin\Debug\Prj2ClassLibrary1.dll

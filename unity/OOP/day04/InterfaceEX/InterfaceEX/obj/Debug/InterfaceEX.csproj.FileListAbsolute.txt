@@ -1,0 +1,6 @@
+D:\Month03\OOP\day04\InterfaceEX\InterfaceEX\bin\Debug\InterfaceEX.exe.config
+D:\Month03\OOP\day04\InterfaceEX\InterfaceEX\bin\Debug\InterfaceEX.exe
+D:\Month03\OOP\day04\InterfaceEX\InterfaceEX\bin\Debug\InterfaceEX.pdb
+D:\Month03\OOP\day04\InterfaceEX\InterfaceEX\obj\Debug\InterfaceEX.csprojResolveAssemblyReference.cache
+D:\Month03\OOP\day04\InterfaceEX\InterfaceEX\obj\Debug\InterfaceEX.exe
+D:\Month03\OOP\day04\InterfaceEX\InterfaceEX\obj\Debug\InterfaceEX.pdb

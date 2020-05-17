@@ -1,0 +1,6 @@
+D:\Month03\OOP\day05\DemoDelegate\DemoDelegate\bin\Debug\DemoDelegate.exe.config
+D:\Month03\OOP\day05\DemoDelegate\DemoDelegate\bin\Debug\DemoDelegate.exe
+D:\Month03\OOP\day05\DemoDelegate\DemoDelegate\bin\Debug\DemoDelegate.pdb
+D:\Month03\OOP\day05\DemoDelegate\DemoDelegate\obj\Debug\DemoDelegate.csprojResolveAssemblyReference.cache
+D:\Month03\OOP\day05\DemoDelegate\DemoDelegate\obj\Debug\DemoDelegate.exe
+D:\Month03\OOP\day05\DemoDelegate\DemoDelegate\obj\Debug\DemoDelegate.pdb

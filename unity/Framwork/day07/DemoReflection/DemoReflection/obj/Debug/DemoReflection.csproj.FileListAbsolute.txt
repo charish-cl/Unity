@@ -1,0 +1,6 @@
+D:\Month03\Framework\day07\DemoReflection\DemoReflection\bin\Debug\DemoReflection.exe.config
+D:\Month03\Framework\day07\DemoReflection\DemoReflection\bin\Debug\DemoReflection.exe
+D:\Month03\Framework\day07\DemoReflection\DemoReflection\bin\Debug\DemoReflection.pdb
+D:\Month03\Framework\day07\DemoReflection\DemoReflection\obj\Debug\DemoReflection.csprojResolveAssemblyReference.cache
+D:\Month03\Framework\day07\DemoReflection\DemoReflection\obj\Debug\DemoReflection.exe
+D:\Month03\Framework\day07\DemoReflection\DemoReflection\obj\Debug\DemoReflection.pdb

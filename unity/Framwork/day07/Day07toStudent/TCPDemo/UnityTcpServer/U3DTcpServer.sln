@@ -1,0 +1,23 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{D6A1A69A-16BF-6F39-957A-097E9C198E12}") = "U3DTcpServer", "Assembly-CSharp.csproj", "{0AFF5369-6BD0-0DBE-C578-105156638090}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0AFF5369-6BD0-0DBE-C578-105156638090}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0AFF5369-6BD0-0DBE-C578-105156638090}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0AFF5369-6BD0-0DBE-C578-105156638090}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0AFF5369-6BD0-0DBE-C578-105156638090}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal

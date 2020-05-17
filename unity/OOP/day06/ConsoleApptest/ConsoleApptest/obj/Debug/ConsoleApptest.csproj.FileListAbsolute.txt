@@ -1,0 +1,6 @@
+D:\Month03\OOP\day06\ConsoleApptest\ConsoleApptest\bin\Debug\ConsoleApptest.exe.config
+D:\Month03\OOP\day06\ConsoleApptest\ConsoleApptest\bin\Debug\ConsoleApptest.exe
+D:\Month03\OOP\day06\ConsoleApptest\ConsoleApptest\bin\Debug\ConsoleApptest.pdb
+D:\Month03\OOP\day06\ConsoleApptest\ConsoleApptest\obj\Debug\ConsoleApptest.csprojResolveAssemblyReference.cache
+D:\Month03\OOP\day06\ConsoleApptest\ConsoleApptest\obj\Debug\ConsoleApptest.exe
+D:\Month03\OOP\day06\ConsoleApptest\ConsoleApptest\obj\Debug\ConsoleApptest.pdb

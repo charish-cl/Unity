@@ -1,0 +1,9 @@
+D:\Month03\OOP准备\day03\DemoPublicPrivate\DemoPublicPrivate\bin\Debug\DemoPublicPrivate.exe.config
+D:\Month03\OOP准备\day03\DemoPublicPrivate\DemoPublicPrivate\obj\Debug\DemoPublicPrivate.csprojResolveAssemblyReference.cache
+D:\Month03\OOP准备\day03\DemoPublicPrivate\DemoPublicPrivate\bin\Debug\DemoPublicPrivate.exe
+D:\Month03\OOP准备\day03\DemoPublicPrivate\DemoPublicPrivate\bin\Debug\DemoPublicPrivate.pdb
+D:\Month03\OOP准备\day03\DemoPublicPrivate\DemoPublicPrivate\obj\Debug\DemoPublicPrivate.exe
+D:\Month03\OOP准备\day03\DemoPublicPrivate\DemoPublicPrivate\obj\Debug\DemoPublicPrivate.pdb
+D:\Month03\OOP\day03\DemoPublicPrivate\DemoPublicPrivate\bin\Debug\DemoPublicPrivate.exe.config
+D:\Month03\OOP\day03\DemoPublicPrivate\DemoPublicPrivate\obj\Debug\DemoPublicPrivate.exe
+D:\Month03\OOP\day03\DemoPublicPrivate\DemoPublicPrivate\obj\Debug\DemoPublicPrivate.pdb

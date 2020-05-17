@@ -1,0 +1,6 @@
+D:\Month03\OOP\day05\DelegateUse2\DelegateUse2\bin\Debug\DelegateUse2.exe.config
+D:\Month03\OOP\day05\DelegateUse2\DelegateUse2\bin\Debug\DelegateUse2.exe
+D:\Month03\OOP\day05\DelegateUse2\DelegateUse2\bin\Debug\DelegateUse2.pdb
+D:\Month03\OOP\day05\DelegateUse2\DelegateUse2\obj\Debug\DelegateUse2.csprojResolveAssemblyReference.cache
+D:\Month03\OOP\day05\DelegateUse2\DelegateUse2\obj\Debug\DelegateUse2.exe
+D:\Month03\OOP\day05\DelegateUse2\DelegateUse2\obj\Debug\DelegateUse2.pdb

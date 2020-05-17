@@ -1,0 +1,5 @@
+D:\Month03\OOP\day05\DelagateUse1\DelagateUse1\bin\Debug\DelagateUse1.exe.config
+D:\Month03\OOP\day05\DelagateUse1\DelagateUse1\bin\Debug\DelagateUse1.exe
+D:\Month03\OOP\day05\DelagateUse1\DelagateUse1\bin\Debug\DelagateUse1.pdb
+D:\Month03\OOP\day05\DelagateUse1\DelagateUse1\obj\Debug\DelagateUse1.exe
+D:\Month03\OOP\day05\DelagateUse1\DelagateUse1\obj\Debug\DelagateUse1.pdb

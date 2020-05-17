@@ -1,0 +1,6 @@
+D:\Month03\OOP准备\day03\practice\practice\bin\Debug\practice.exe.config
+D:\Month03\OOP准备\day03\practice\practice\obj\Debug\practice.csprojResolveAssemblyReference.cache
+D:\Month03\OOP准备\day03\practice\practice\bin\Debug\practice.exe
+D:\Month03\OOP准备\day03\practice\practice\bin\Debug\practice.pdb
+D:\Month03\OOP准备\day03\practice\practice\obj\Debug\practice.exe
+D:\Month03\OOP准备\day03\practice\practice\obj\Debug\practice.pdb

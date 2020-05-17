@@ -1,0 +1,5 @@
+D:\Month03\Framework\day03\DemoSingletonBaseClass\DemoSingletonBaseClass\bin\Debug\DemoSingletonBaseClass.exe.config
+D:\Month03\Framework\day03\DemoSingletonBaseClass\DemoSingletonBaseClass\bin\Debug\DemoSingletonBaseClass.exe
+D:\Month03\Framework\day03\DemoSingletonBaseClass\DemoSingletonBaseClass\bin\Debug\DemoSingletonBaseClass.pdb
+D:\Month03\Framework\day03\DemoSingletonBaseClass\DemoSingletonBaseClass\obj\Debug\DemoSingletonBaseClass.exe
+D:\Month03\Framework\day03\DemoSingletonBaseClass\DemoSingletonBaseClass\obj\Debug\DemoSingletonBaseClass.pdb

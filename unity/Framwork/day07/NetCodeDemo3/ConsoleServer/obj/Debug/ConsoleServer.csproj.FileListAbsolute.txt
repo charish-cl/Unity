@@ -1,0 +1,12 @@
+D:\Month03\Framework\day07\NetCodeDemo1\ConsoleServer\bin\Debug\ConsoleServer.exe.config
+D:\Month03\Framework\day07\NetCodeDemo1\ConsoleServer\bin\Debug\ConsoleServer.exe
+D:\Month03\Framework\day07\NetCodeDemo1\ConsoleServer\bin\Debug\ConsoleServer.pdb
+D:\Month03\Framework\day07\NetCodeDemo1\ConsoleServer\obj\Debug\ConsoleServer.csprojResolveAssemblyReference.cache
+D:\Month03\Framework\day07\NetCodeDemo1\ConsoleServer\obj\Debug\ConsoleServer.exe
+D:\Month03\Framework\day07\NetCodeDemo1\ConsoleServer\obj\Debug\ConsoleServer.pdb
+D:\Month03\Framework\day07\NetCodeDemo3\ConsoleServer\bin\Debug\ConsoleServer.exe.config
+D:\Month03\Framework\day07\NetCodeDemo3\ConsoleServer\obj\Debug\ConsoleServer.exe
+D:\Month03\Framework\day07\NetCodeDemo3\ConsoleServer\obj\Debug\ConsoleServer.pdb
+D:\Month03\Framework\day07\NetCodeDemo3\ConsoleServer\bin\Debug\ConsoleServer.exe
+D:\Month03\Framework\day07\NetCodeDemo3\ConsoleServer\bin\Debug\ConsoleServer.pdb
+D:\Month03\Framework\day07\NetCodeDemo3\ConsoleServer\obj\Debug\ConsoleServer.csprojResolveAssemblyReference.cache

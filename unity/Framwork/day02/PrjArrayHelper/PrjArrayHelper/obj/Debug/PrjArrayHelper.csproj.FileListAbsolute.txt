@@ -1,0 +1,5 @@
+D:\Month03\Framework\day02\PrjArrayHelper\PrjArrayHelper\bin\Debug\PrjArrayHelper.exe.config
+D:\Month03\Framework\day02\PrjArrayHelper\PrjArrayHelper\bin\Debug\PrjArrayHelper.exe
+D:\Month03\Framework\day02\PrjArrayHelper\PrjArrayHelper\bin\Debug\PrjArrayHelper.pdb
+D:\Month03\Framework\day02\PrjArrayHelper\PrjArrayHelper\obj\Debug\PrjArrayHelper.exe
+D:\Month03\Framework\day02\PrjArrayHelper\PrjArrayHelper\obj\Debug\PrjArrayHelper.pdb

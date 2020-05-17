@@ -1,0 +1,6 @@
+D:\Month03\Framework\day01\DemoGenric\DemoGenric\bin\Debug\DemoGenric.exe.config
+D:\Month03\Framework\day01\DemoGenric\DemoGenric\obj\Debug\DemoGenric.csprojResolveAssemblyReference.cache
+D:\Month03\Framework\day01\DemoGenric\DemoGenric\bin\Debug\DemoGenric.exe
+D:\Month03\Framework\day01\DemoGenric\DemoGenric\bin\Debug\DemoGenric.pdb
+D:\Month03\Framework\day01\DemoGenric\DemoGenric\obj\Debug\DemoGenric.exe
+D:\Month03\Framework\day01\DemoGenric\DemoGenric\obj\Debug\DemoGenric.pdb

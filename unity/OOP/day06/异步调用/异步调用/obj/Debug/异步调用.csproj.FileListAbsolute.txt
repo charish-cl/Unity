@@ -1,0 +1,6 @@
+D:\Month03\OOP\day06\异步调用\异步调用\bin\Debug\异步调用.exe.config
+D:\Month03\OOP\day06\异步调用\异步调用\bin\Debug\异步调用.exe
+D:\Month03\OOP\day06\异步调用\异步调用\bin\Debug\异步调用.pdb
+D:\Month03\OOP\day06\异步调用\异步调用\obj\Debug\异步调用.exe
+D:\Month03\OOP\day06\异步调用\异步调用\obj\Debug\异步调用.pdb
+D:\Month03\OOP\day06\异步调用\异步调用\obj\Debug\异步调用.csprojResolveAssemblyReference.cache
